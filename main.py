@@ -5,7 +5,7 @@ from ibm_cloud_sdk_core.authenticators import IAMAuthenticator
 
 
 url = 'https://api.us-east.text-to-speech.watson.cloud.ibm.com/instances/8b9955d4-dccd-4d6b-a85a-75f91067d823'
-apikey = 'Dg0BBwteuf0cP-4XSwQu_S3jjlLqe1MIZOyvS_76X9li'
+apikey = ''
 
 #setup Service
 authenticator =IAMAuthenticator(apikey)
